@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VerkehrZaehlung App Tim</string>
+    <string-array name="array_Richtung">
+        <item>Richtung Frankfurt</item>
+        <item>Richtung Mannheim</item>
+
+    </string-array>
+</resources>
